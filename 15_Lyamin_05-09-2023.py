@@ -1,0 +1,1 @@
+print(input("vvedite predlojenie\n").count('т'));
